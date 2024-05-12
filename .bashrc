@@ -116,3 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
+cowsay -f stegosaurus you bring me to life!
